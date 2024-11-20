@@ -2,6 +2,8 @@
 
 https://colab.research.google.com/drive/1yz2okCCAB-7cDR3qEtmNMaMEaYUi8pLm?usp=sharing
 
+https://drive.google.com/file/d/16PntwaI3jwRmviTchVRBs0w1HnKQWoZu/view?usp=sharing
+
 Thanks for being interested in this StockPrediction project! This project attempts to build a model to predict the price of Apple Inc. (AAPL). 
 
 SUMMARY:
